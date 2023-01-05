@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saptaparneechaudhuri
 - 👀 I’m interested in web/mobile application development
-- 🌱 I’m currently learning web/mobile applications development using React.
-- 💞️ I’m looking for a developer position in React.
+
+
 - 📫 How to reach me - saptaparnee8@gmail.com
 
 <!---
