@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saptaparneechaudhuri
-- 👀 I’m interested in web/mobile application development
+- 👀 I’m interested in web/mobile application development and content writing for the same.
 
 
 - 📫 How to reach me - saptaparnee8@gmail.com
